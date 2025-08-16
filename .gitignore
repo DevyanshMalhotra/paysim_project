@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+paysim_env/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.pkl
+*.csv
+*.tsv
+*.h5
+*.parquet
+
+# Logs and outputs
+*.log
+*.out
+*.err
+
+# Model files
+*.joblib
+*.pth
+*.pt
+*.h5
+
+# Build / distribution artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
